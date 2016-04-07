@@ -1,0 +1,28 @@
+name: digitalquant
+favicon: null
+layout_spectrum: 0.4412012230604887
+typography_spectrum: 0.9608172765001655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6235775181557983
+  lightness: 0.15343490452505648
+  saturation: 0.46260132105089724
+  rhythmicContrast: 0.7329798685386777
+purpose: []
